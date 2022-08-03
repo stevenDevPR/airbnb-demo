@@ -29,7 +29,7 @@ function Footer() {
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
-        <p className="font-bold">How Airbnb works</p>
+        <p className="font-bold">ABOUT</p>
         <p>Newsroom</p>
         <p>Investors</p>
         <p>Airbnb Plus</p>
